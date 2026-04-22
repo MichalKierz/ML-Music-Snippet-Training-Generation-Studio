@@ -1,0 +1,21 @@
+{
+  "app_name": "ML Music Snippet Training & Generation Studio",
+  "language": "en",
+  "window": {
+    "width": 1200,
+    "height": 820
+  },
+  "default_directories": {
+    "training_input": "training_input",
+    "processed_training_data": "processed_training_data",
+    "models": "models",
+    "generated": "generated",
+    "logs": "logs"
+  },
+  "status_defaults": {
+    "stage": "Idle",
+    "status": "Ready",
+    "elapsed": "00:00:00",
+    "eta": "--"
+  }
+}

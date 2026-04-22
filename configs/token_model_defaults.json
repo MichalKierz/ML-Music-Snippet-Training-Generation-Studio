@@ -1,0 +1,19 @@
+{
+  "codec_name": "dac",
+  "codec_model_type": "24khz",
+  "chunk_sample_rate": 24000,
+  "d_model": 512,
+  "n_heads": 8,
+  "n_kv_heads": 4,
+  "n_layers": 8,
+  "ff_mult": 4,
+  "dropout": 0.1,
+  "metadata_prefix_tokens": 8,
+  "reference_track_duration_sec": 240.0,
+  "rope_base": 10000.0,
+  "use_genre_metadata": true,
+  "use_year_metadata": true,
+  "use_mood_metadata": false,
+  "use_key_metadata": false,
+  "use_bpm_metadata": false
+}

@@ -1,0 +1,18 @@
+{
+  "batch_size": 1,
+  "epochs": 100,
+  "learning_rate": 0.0003,
+  "validation_split": 0.1,
+  "weight_decay": 0.01,
+  "mixed_precision": true,
+  "pin_memory": true,
+  "num_workers": 0,
+  "max_grad_norm": 1.0,
+  "max_examples_per_token_batch_factor": 4,
+  "bucket_size_multiplier": 50,
+  "lr_warmup_ratio": 0.05,
+  "lr_min_ratio": 0.1,
+  "use_ema": true,
+  "ema_decay": 0.999,
+  "top_k_checkpoint_average": 3
+}
