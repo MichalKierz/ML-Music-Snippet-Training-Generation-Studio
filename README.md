@@ -27,8 +27,8 @@ Linux does not currently have a dedicated requirements file in this repository. 
 ## 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/MichalKierz/ML-Music-Snippet-Training-Generation-Studio.git
+cd ML-Music-Snippet-Training-Generation-Studio
 ```
 
 ## 2. Create a virtual environment (recommended)
