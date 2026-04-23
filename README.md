@@ -1,5 +1,5 @@
 # ML Music Snippet Training & Generation Studio
-
+![Image](showcase.png)
 ML Music Snippet Training & Generation Studio is a desktop application for preprocessing audio, training metadata-conditioned music snippet models, and generating new MP3 snippets from trained models.
 
 The project is intended for local experimentation with your own music collection. It provides a GUI workflow for dataset preparation, model training, model loading, prompt-based generation, and MP3 export.
